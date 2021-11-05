@@ -8,7 +8,7 @@ Low Phreak (**Low Freq**uency [**Pho**naskos](https://books.google.com/books?id=
 
 The basis of Low Phreak is a word2vec model trained on pos-tagged sentences (e.g. `["the_cc", "dog_nn",...]`) extracted from Project Gutenberg text and Amazon rproduct reviews.  This repo consists of three notebooks:
 
-1. Tokenizing and pos-tagging sentences.
+1. Tokenizing and pos-tagging sentences, counting tokens to identify low frequency ones.
 2. Training the word2vec model.
 3. The interface itself
 
