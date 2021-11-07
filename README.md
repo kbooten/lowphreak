@@ -8,7 +8,7 @@ Low Phreak (**Low Freq**uency [**Pho**naskos](https://books.google.com/books?id=
 
 The basis of Low Phreak is a word2vec model trained on pos-tagged sentences (e.g. `["the_DT", "dog_NN",...]`) extracted from Project Gutenberg text and Amazon rproduct reviews.
 
-Low Freak lives in this [Google Colab notebook](https://colab.research.google.com/drive/1rduI02KSUxuMMQmcN8pVrkFdXq_XFhQw?usp=sharing). The notebook uses `wget` to get raw data files from this repo, so anyone can try out Low Phreak in the browser simply by copying and running the Colab notebook (*File > Save copy in Drive* then *Runtime > Runall*). 
+Low Freak lives in this [Google Colab notebook](https://colab.research.google.com/drive/1rduI02KSUxuMMQmcN8pVrkFdXq_XFhQw?usp=sharing). The notebook uses `wget` to get raw data files from this repo, so anyone can try out Low Phreak in the browser simply by copying and running the Colab notebook (*File > Save copy in Drive* then *Runtime > Run all*). 
 
 See also:
 
