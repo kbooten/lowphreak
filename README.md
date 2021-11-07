@@ -12,5 +12,5 @@ Low Freak lives in this [Google Colab notebook](https://colab.research.google.co
 
 See also:
 
-1. [`prepping_data_for_training.ipynb`](https://github.com/kbooten/lowphreak/blob/main/prepping_data_for_training.ipynb): tokenizing and pos-tagging sentences, counting tokens to identify low frequency ones.
+1. [`prepping_data_for_training.ipynb`](https://github.com/kbooten/lowphreak/blob/main/prepping_data_for_training.ipynb): tokenizing and pos-tagging sentences, counting tokens to identify low-frequency ones.
 2. [`trainword2vecmodel.ipynb` (Google Colab)](https://colab.research.google.com/drive/1itCPb52Gnm6v_LpLWQi_R958WDZDu1Qd?usp=sharing): training the word2vec model on sentences from the previous notebook.
